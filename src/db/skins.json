@@ -1,0 +1,172 @@
+{
+  "skins": [
+    {
+      "name": "Redline",
+      "weapon_category": "rifle",
+      "weapon_name": "AK-47",
+      "tags": ["red", "black"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2FrLTQ3LXJlZGxpbmUvMTIucG5n/auto/auto/85/notrim/7cca9447cb0ffa1e5ac46df84b1917ad.webp"
+    },
+    {
+      "name": "Asiimov",
+      "weapon_category": "rifle",
+      "weapon_name": "AWP",
+      "tags": ["orange", "white", "black"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2F3cC1hc2lpbW92LzI4LnBuZw--/auto/auto/85/notrim/fe4f277b3158595df92f949e8fed4559.webp"
+    },
+    {
+      "name": "Asiimov",
+      "weapon_category": "rifle",
+      "weapon_name": "AK-47",
+      "tags": ["orange", "white", "black"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2FrLTQ3LWFzaWltb3YvNi5wbmc-/auto/auto/85/notrim/9c840b378f238a0b7f248da6793eb944.webp"
+    },
+    {
+      "name": "Dragon Lore",
+      "weapon_category": "rifle",
+      "weapon_name": "AWP",
+      "tags": ["gold", "green"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2F3cC1kcmFnb24tbG9yZS8zLnBuZw--/auto/auto/85/notrim/43df0d9067822550e6e59fd642c90b41.webp"
+    },
+    {
+      "name": "Fade",
+      "weapon_category": "pistol",
+      "weapon_name": "Glock-18",
+      "tags": ["purple", "pink", "yellow"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2dsb2NrLTE4LWZhZGUvMy5wbmc-/auto/auto/85/notrim/c827708057e18124f5d24329a56d6421.webp"
+    },
+    {
+      "name": "Hyper Beast",
+      "weapon_category": "rifle",
+      "weapon_name": "M4A1-S",
+      "tags": ["purple", "pink", "blue"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL200YTEtcy1oeXBlci1iZWFzdC8zLnBuZw--/auto/auto/85/notrim/f57f5302aecda0d400f99464211534ed.webp"
+    },
+    {
+      "name": "Doppler",
+      "weapon_category": "knife",
+      "weapon_name": "Karambit",
+      "tags": ["blue", "purple", "black"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2thcmFtYml0LWRvcHBsZXIvMy5wbmc-/auto/auto/85/notrim/ec3f25147716762828904911c8a999a3.webp"
+    },
+    {
+      "name": "Howl",
+      "weapon_category": "rifle",
+      "weapon_name": "M4A4",
+      "tags": ["red", "orange", "black"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL200YTQtaG93bC8zLnBuZw--/auto/auto/85/notrim/bc229320e9948a4f36412f264e22adb4.webp"
+    },
+    {
+      "name": "Case Hardened",
+      "weapon_category": "rifle",
+      "weapon_name": "AK-47",
+      "tags": ["blue", "gold", "brown"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2FrLTQ3LWNhc2UtaGFyZGVuZWQvMy5wbmc-/auto/auto/85/notrim/04779aa34ce9530c8c802c589482e0e8.webp"
+    },
+    {
+      "name": "Printstream",
+      "weapon_category": "pistol",
+      "weapon_name": "Desert Eagle",
+      "tags": ["white", "black"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2Rlc2VydC1lYWdsZS1wcmludHN0cmVhbS8zLnBuZw--/auto/auto/85/notrim/ef0cc1c07cc21e06ad22cd905aa0097b.webp"
+    },
+    {
+      "name": "Neo-Noir",
+      "weapon_category": "rifle",
+      "weapon_name": "M4A4",
+      "tags": ["black", "white", "pink"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL200YTQtbmVvLW5vaXIvMy5wbmc-/auto/auto/85/notrim/be50b5ddee25976aa4c62f478811efaa.webp"
+    },
+    {
+      "name": "Oni Taiji",
+      "weapon_category": "mid-tier",
+      "weapon_name": "MP9",
+      "tags": ["red", "black", "white"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2F3cC1vbmktdGFpamkvMy5wbmc-/auto/auto/85/notrim/5196b35e652d81109ca817f568ec56c7.webp"
+    },
+    {
+      "name": "Vulcan",
+      "weapon_category": "rifle",
+      "weapon_name": "AK-47",
+      "tags": ["orange", "blue", "black"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2FrLTQ3LXZ1bGNhbi8zLnBuZw--/auto/auto/85/notrim/5a019cc361f834a2434ca07ad3601bfd.webp"
+    },
+    {
+      "name": "Kill Confirmed",
+      "weapon_category": "pistol",
+      "weapon_name": "USP-S",
+      "tags": ["gold", "black"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL3VzcC1zLWtpbGwtY29uZmlybWVkLzMucG5n/auto/auto/85/notrim/63df1493794c07231c59a16825ee8be9.webp"
+    },
+    {
+      "name": "Neon Rider",
+      "weapon_category": "rifle",
+      "weapon_name": "M4A4",
+      "tags": ["pink", "purple", "blue"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2FrLTQ3LW5lb24tcmlkZXIvMy5wbmc-/auto/auto/85/notrim/c9f0c05f2a16295bec2d7ce0350303dd.webp"
+    },
+    {
+      "name": "Bloodsport",
+      "weapon_category": "rifle",
+      "weapon_name": "AK-47",
+      "tags": ["red", "white"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2FrLTQ3LWJsb29kc3BvcnQvMy5wbmc-/auto/auto/85/notrim/e328a89dd6348342baf76d1b0cd1467a.webp"
+    },
+    {
+      "name": "Fade",
+      "weapon_category": "knife",
+      "weapon_name": "Butterfly Knife",
+      "tags": ["purple", "pink", "yellow"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2J1dHRlcmZseS1rbmlmZS1mYWRlLzMucG5n/auto/auto/85/notrim/b4fe93cc42b867771c1fff2a20c68b9a.webp"
+    },
+    {
+      "name": "Decimator",
+      "weapon_category": "rifle",
+      "weapon_name": "M4A1-S",
+      "tags": ["orange", "black"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL200YTEtcy1kZWNpbWF0b3IvMy5wbmc-/auto/auto/85/notrim/7234c7a35080238d2d9a2edc0b80aed6.webp"
+    },
+    {
+      "name": "Wildfire",
+      "weapon_category": "pistol",
+      "weapon_name": "CZ75-Auto",
+      "tags": ["red", "orange"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2F3cC13aWxkZmlyZS80LnBuZw--/auto/auto/85/notrim/a31b0c5fb32b9c71beb241d7999e012c.webp"
+    },
+    {
+      "name": "Empress",
+      "weapon_category": "rifle",
+      "weapon_name": "AK-47",
+      "tags": ["blue", "pink", "white"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2FrLTQ3LXRoZS1lbXByZXNzLzMucG5n/auto/auto/85/notrim/d15e9f612e51ee975bfb1f32c70f0e95.webp"
+    },
+    {
+      "name": "Gamma Doppler",
+      "weapon_category": "knife",
+      "weapon_name": "M9 Bayonet",
+      "tags": ["green", "blue"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL205LWJheW9uZXQtZ2FtbWEtZG9wcGxlci8zLnBuZw--/auto/auto/85/notrim/dcfdbef6d8adadc5a925c11939623c1e.webp"
+    },
+    {
+      "name": "Wild Lily",
+      "weapon_category": "mid-tier",
+      "weapon_name": "MP9",
+      "tags": ["purple", "blue"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL21wOS13aWxkLWxpbHkvMy5wbmc-/auto/auto/85/notrim/e2307ae2feb661b39a4f98c70bca2060.webp"
+    },
+    {
+      "name": "Vice",
+      "weapon_category": "Gloves",
+      "weapon_name": "Sport Gloves",
+      "tags": ["purple", "blue"],
+      "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL3Nwb3J0LWdsb3Zlcy12aWNlLzYucG5n/auto/auto/85/notrim/188fdf40ddca63f3f351f430a3550169.webp"
+    },
+    {
+      "name": "Trapper | Guerrilla Warfare",
+      "weapon_category": "Agent",
+      "weapon_name": "",
+      "tags": ["orange"],
+      "image": "https://cdn.csgoskins.gg/public/uih/inspections/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvaW5zcGVjdGlvbnMvdjIvdHJhcHBlci1ndWVycmlsbGEtd2FyZmFyZS5wbmc-/auto/auto/85/notrim/eba92e79a888f9000d39f61f3e20087a.webp"
+    }
+  ]
+}
