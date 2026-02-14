@@ -3,12 +3,10 @@ import * as itemsService from "../repository/items.js";
 
 const router = express.Router();
 
-router.get("/", async (req, res, next) => {
+router.get("/", async (_req, res, next) => {
   try {
-    const limit = Math.min(parseInt(req.query.limit, 10) || 50, 100);
-    const offset = parseInt(req.query.offset, 10) || 0;
-    const items = await itemsService.list(limit, offset);
-    res.json({ items });
+    const items = await itemsService.list();
+    res.json(items);
   } catch (err) {
     next(err);
   }

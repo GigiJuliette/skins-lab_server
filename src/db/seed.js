@@ -26,12 +26,14 @@ async function seed() {
     console.log("Seeded demo user: dev@dev.com / dev123");
 
     await pool.query(`
+      DROP TABLE IF EXISTS skins;
+
       CREATE TABLE IF NOT EXISTS skins (
         id SERIAL PRIMARY KEY,
         name VARCHAR(255) NOT NULL,
         weapon_category VARCHAR(100) NOT NULL,
         weapon_name VARCHAR(255) NOT NULL,
-        image TEXT,
+        image TEXT NOT NULL,
         tags JSONB
       );
     `);
@@ -47,12 +49,13 @@ async function seed() {
 
     for (const skin of data.skins) {
       await pool.query(
-        "INSERT INTO skins (name, weapon_category, weapon_name, tags) VALUES ($1, $2, $3, $4)",
+        "INSERT INTO skins (name, weapon_category, weapon_name, tags, image) VALUES ($1, $2, $3, $4, $5)",
         [
           skin.name,
           skin.weapon_category,
           skin.weapon_name,
           skin.tags ? JSON.stringify(skin.tags) : null,
+          skin.image,
         ],
       );
     }

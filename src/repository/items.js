@@ -2,13 +2,10 @@ import { pool } from "../db/connection.js";
 
 // const COLUMNS = "id, name, description, created_at";
 
-export async function list(limit = 50, offset = 0) {
-  const result = await pool.query(
-    `SELECT name, id, tags FROM skins ORDER BY id DESC LIMIT $1 OFFSET $2`,
-    [limit, offset],
-  );
+export const list = async () => {
+  const result = await pool.query(`SELECT * FROM skins ORDER BY id DESC`);
   return result.rows;
-}
+};
 
 export async function getById(id) {
   const result = await pool.query(`SELECT * FROM skins WHERE id = $1`, [id]);
