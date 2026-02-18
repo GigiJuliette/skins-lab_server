@@ -7,6 +7,14 @@ export const list = async () => {
   return result.rows;
 };
 
+export const getByCategories = async (weapon_category) => {
+  const result = await pool.query(
+    `SELECT * FROM skins WHERE weapon_category = $1 ORDER BY id DESC`,
+    [weapon_category],
+  );
+  return result.rows;
+};
+
 export async function getById(id) {
   const result = await pool.query(`SELECT * FROM skins WHERE id = $1`, [id]);
   return result.rows[0] ?? null;

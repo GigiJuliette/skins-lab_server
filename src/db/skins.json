@@ -44,7 +44,7 @@
     },
     {
       "name": "Doppler",
-      "weapon_category": "knife",
+      "weapon_category": "KNIFE",
       "weapon_name": "Karambit",
       "tags": ["blue", "purple", "black"],
       "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2thcmFtYml0LWRvcHBsZXIvMy5wbmc-/auto/auto/85/notrim/ec3f25147716762828904911c8a999a3.webp"
@@ -79,7 +79,7 @@
     },
     {
       "name": "Oni Taiji",
-      "weapon_category": "mid-tier",
+      "weapon_category": "midtier",
       "weapon_name": "MP9",
       "tags": ["red", "black", "white"],
       "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2F3cC1vbmktdGFpamkvMy5wbmc-/auto/auto/85/notrim/5196b35e652d81109ca817f568ec56c7.webp"
@@ -114,8 +114,8 @@
     },
     {
       "name": "Fade",
-      "weapon_category": "knife",
-      "weapon_name": "Butterfly Knife",
+      "weapon_category": "KNIFE",
+      "weapon_name": "Butterfly KNIFE",
       "tags": ["purple", "pink", "yellow"],
       "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL2J1dHRlcmZseS1rbmlmZS1mYWRlLzMucG5n/auto/auto/85/notrim/b4fe93cc42b867771c1fff2a20c68b9a.webp"
     },
@@ -142,28 +142,28 @@
     },
     {
       "name": "Gamma Doppler",
-      "weapon_category": "knife",
+      "weapon_category": "KNIFE",
       "weapon_name": "M9 Bayonet",
       "tags": ["green", "blue"],
       "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL205LWJheW9uZXQtZ2FtbWEtZG9wcGxlci8zLnBuZw--/auto/auto/85/notrim/dcfdbef6d8adadc5a925c11939623c1e.webp"
     },
     {
       "name": "Wild Lily",
-      "weapon_category": "mid-tier",
+      "weapon_category": "midtier",
       "weapon_name": "MP9",
       "tags": ["purple", "blue"],
       "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL21wOS13aWxkLWxpbHkvMy5wbmc-/auto/auto/85/notrim/e2307ae2feb661b39a4f98c70bca2060.webp"
     },
     {
       "name": "Vice",
-      "weapon_category": "Gloves",
-      "weapon_name": "Sport Gloves",
+      "weapon_category": "gloves",
+      "weapon_name": "Sport gloves",
       "tags": ["purple", "blue"],
       "image": "https://cdn.csgoskins.gg/public/uih/floats/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvZmxvYXRzL3YzL3Nwb3J0LWdsb3Zlcy12aWNlLzYucG5n/auto/auto/85/notrim/188fdf40ddca63f3f351f430a3550169.webp"
     },
     {
       "name": "Trapper | Guerrilla Warfare",
-      "weapon_category": "Agent",
+      "weapon_category": "agent",
       "weapon_name": "",
       "tags": ["orange"],
       "image": "https://cdn.csgoskins.gg/public/uih/inspections/aHR0cHM6Ly9jZG4uY3Nnb3NraW5zLmdnL3B1YmxpYy9pbWFnZXMvaW5zcGVjdGlvbnMvdjIvdHJhcHBlci1ndWVycmlsbGEtd2FyZmFyZS5wbmc-/auto/auto/85/notrim/eba92e79a888f9000d39f61f3e20087a.webp"

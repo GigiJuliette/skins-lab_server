@@ -12,23 +12,15 @@ router.get("/", async (_req, res, next) => {
   }
 });
 
-// router.post("/", async (req, res, next) => {
-//   try {
-//     const { name, description } = req.body;
-//     if (!name || typeof name !== "string" || name.trim() === "") {
-//       return res
-//         .status(400)
-//         .json({ error: "name is required and must be a non-empty string" });
-//     }
-//     const item = await itemsService.create(
-//       name.trim(),
-//       description != null ? String(description) : null,
-//     );
-//     res.status(201).json(item);
-//   } catch (err) {
-//     next(err);
-//   }
-// });
+router.get("/sort", async (req, res, next) => {
+  try {
+    const weapon_category = req.query.category;
+    const items = await itemsService.getByCategories(weapon_category);
+    res.json(items);
+  } catch (err) {
+    next(err);
+  }
+});
 
 router.get("/:id", async (req, res, next) => {
   try {
